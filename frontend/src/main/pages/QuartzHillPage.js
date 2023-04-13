@@ -6,10 +6,10 @@ export default function QuartzHillPage() {
       <div className="pt-2">
         <h1>Quartz Hill, CA</h1>
         <p>
-         <b>Quartz Hill, California</b> is a small residential town
-         located in Los Angeles County, California. It is home to about
-         10,000 people and is known for its high desert climate and scenic
-         views of the mountains.
+         <b>Quartz Hill, California</b> is a small, rural residential
+         community located in Los Angeles County. It is home to about
+         10,000 people and is known for its desert climate and scenic
+         views of the surrounding mountains.
         </p>
         <p>Added by Christian B.</p>
       </div>
