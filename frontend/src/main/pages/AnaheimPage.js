@@ -6,11 +6,10 @@ export default function AnaheimPage() {
       <div className="pt-2">
         <h1>Anaheim, CA</h1>
         <p>
-         <b>Anaheim, California</b> is a city loacated in Southen California.
-         The city is known for being home to Disneyland, one of the world's most popular theme parks.
-         The city offers other attractions such as Angel Stadium, the home field of the  Los Angeles Angels, 
-         and offers vast options of cullinary experinences.
-
+         <b>Anaheim, California</b> is a city loacated in Southen California known for its world-famous
+          Disneyland Resort, which attracts millions of visitors every year. The city offers other 
+          attractions such as Angel Stadium, the home field of the  Los Angeles Angels, and a variety 
+          of cultural and culinary experiences, including museums, theaters, and a vibrant downtown area.
         </p>
         <p>Added by Ricardo H.</p>
       </div>
